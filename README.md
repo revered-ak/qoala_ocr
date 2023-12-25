@@ -1,7 +1,7 @@
 # qoala_ocr
 <img width="960" alt="Screenshot 2023-12-25 211638" src="https://github.com/revered-ak/qoala_ocr/assets/86222803/2a1a30bd-e91a-4177-af78-e105686ec262">
 
-Thai Id OCR using Google Cloud Vision API Integration
+**Thai Id OCR using Google Cloud Vision API Integration
 Project Setup
 To integrate the Google Cloud Vision API with this project, follow these steps:
 
